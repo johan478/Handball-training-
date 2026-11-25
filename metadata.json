@@ -1,0 +1,7 @@
+{
+  "name": "HandballCoach Pro",
+  "description": "Professionelle Plattform für Handball-Trainingsplanung, adaptive Übungen, Leistungsdiagnostik und Teamorganisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
